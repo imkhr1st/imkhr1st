@@ -1,5 +1,5 @@
 # ͓̽W͓͓̽̽e͓͓̽̽l͓͓̽̽c͓͓̽̽o͓͓̽̽m͓͓̽̽e͓̽ ͓̽t͓͓̽̽o͓̽ ͓̽m͓͓̽̽y͓̽ ͓̽p͓͓̽̽r͓͓̽̽o͓͓̽̽f͓͓̽̽i͓͓̽̽l͓͓̽̽e͓̽
-# ᵢₘ ₖₕᵣ₁ₛₜ ₐₙₐₗyₛₜ ₑₓₜᵣₐₒᵣdᵢₙₐᵢᵣₑ, ₕₐᵥₑ ₐ ₗₒₒₖ ₐᵣₒᵤₙd 
+# ᵢₘ ₖₕᵣ₁ₛₜ ₐₙₐₗyₛₜ ₑₓₜᵣₐₒᵣdᵢₙₐᵢᵣₑ ₕₐᵥₑ ₐ ₗₒₒₖ ₐᵣₒᵤₙd 
 
 [![](https://img.shields.io/badge/-@krisofakind-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/krisofakind)
 [![](https://img.shields.io/badge/-@krisofakind-%23181717?style=flat-square&logo=github)](https://github.com/krisofakind)
