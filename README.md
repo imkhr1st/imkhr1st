@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/kdiLau77NEq5KxO6CC/giphy.gif" width="100%" height="auto" />
+</p>
+
 # ͓̽W͓͓̽̽e͓͓̽̽l͓͓̽̽c͓͓̽̽o͓͓̽̽m͓͓̽̽e͓̽ ͓̽t͓͓̽̽o͓̽ ͓̽m͓͓̽̽y͓̽ ͓̽p͓͓̽̽r͓͓̽̽o͓͓̽̽f͓͓̽̽i͓͓̽̽l͓͓̽̽e͓̽
 # ᵢₘ ₖₕᵣ₁ₛₜ ₐₙₐₗyₛₜ ₑₓₜᵣₐₒᵣdᵢₙₐᵢᵣₑ ₕₐᵥₑ ₐ ₗₒₒₖ ₐᵣₒᵤₙd 
 
