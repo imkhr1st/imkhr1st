@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krisctf/krisctf/main/discord-anime.gif" width="100%" height="auto" />
+</p>
 
 
 # ͓̽W͓͓̽̽e͓͓̽̽l͓͓̽̽c͓͓̽̽o͓͓̽̽m͓͓̽̽e͓̽ ͓̽t͓͓̽̽o͓̽ ͓̽m͓͓̽̽y͓̽ ͓̽p͓͓̽̽r͓͓̽̽o͓͓̽̽f͓͓̽̽i͓͓̽̽l͓͓̽̽e͓̽
