@@ -1,4 +1,5 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 𝗸𝙧𝗶𝘀
+# ᵢₘ ₖₕᵣ₁ₛₜ ₐₙₐₗyₛₜ ₑₓₜᵣₐₒᵣdᵢₙₐᵢᵣₑ, ₕₐᵥₑ ₐ ₗₒₒₖ ₐᵣₒᵤₙd 
 
 [![](https://img.shields.io/badge/-@krisofakind-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/krisofakind)
 [![](https://img.shields.io/badge/-@krisofakind-%23181717?style=flat-square&logo=github)](https://github.com/krisofakind)
