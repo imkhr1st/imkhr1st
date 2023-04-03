@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 𝗬𝘂𝗻𝘄𝗲𝗶 𝗫𝗶𝗮𝗼
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 𝗸𝙧𝗶𝘀
 
 [![](https://img.shields.io/badge/-@krisofakind-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/krisofakind)
 [![](https://img.shields.io/badge/-@krisofakind-%23181717?style=flat-square&logo=github)](https://github.com/krisofakind)
