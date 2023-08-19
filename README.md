@@ -1,51 +1,52 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&size=50&pause=1000&vCenter=true&width=1400&lines=Hi%2C+im+kris+aka.+krisofakind+a+soc+analyst+from+the+U.S.)](https://git.io/typing-svg)
+
+<img src="https://github.com/krisofakind/krisofakind/blob/main/anime-blue.gif" alt="drawing" width="1100"/>
+
+<p align="left"> <a href="https://twitter.com/krisofakind" target="blank"><img src="https://img.shields.io/twitter/follow/krisofakind?logo=twitter&style=for-the-badge" alt="krisofakind" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/krisofakind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="krisofakind" height="30" width="40" /></a>
+<a href="https://twitter.com/krisofakind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krisofakind" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krisofakind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krisofakind" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17237090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17237090" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@krisctf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@krisctf" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/laelyotam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="laelyotam" /></a><a href="https://ko-fi.com/krisofakind"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="krisofakind" /></a></p><br><br>
+
+
+<img align="right" width="150" height="150" src="https://i.ibb.co/HBKPZqm/octocat.png">
+
+
+### Some Fun Facts about me:
+As an aspiring multi-engineer or applied scientist, it is imperative to possess a multifaceted skillset, including proficiency in cybersecurity, machine learning, data science, software engineering, and quantum computing. My passion for playing capture the flag games and coding challenges demonstrates my dedication to continuously improving my capabilities in these areas. Furthermore, my enthusiasm for sports such as tennis, track, and golf showcase athleticism and drive for personal growth. It is likely that we will cross paths at professional events in the future, and I eagerly anticipate the opportunity to introduce myself and engage in intellectually stimulating discourse with you.
+
+
+-------
 <p align="center">
-  <img src="https://raw.githubusercontent.com/krisctf/krisctf/main/discord-anime.gif" width="100%" height="auto" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/krisctf.png" alt="TryHackMe" width="400">
 </p>
 
 
-# ͓̽W͓͓̽̽e͓͓̽̽l͓͓̽̽c͓͓̽̽o͓͓̽̽m͓͓̽̽e͓̽ ͓̽t͓͓̽̽o͓̽ ͓̽m͓͓̽̽y͓̽ ͓̽p͓͓̽̽r͓͓̽̽o͓͓̽̽f͓͓̽̽i͓͓̽̽l͓͓̽̽e͓̽
-# ᵢₘ ₖₕᵣ₁ₛₜ ₐₙₐₗyₛₜ ₑₓₜᵣₐₒᵣdᵢₙₐᵢᵣₑ ₕₐᵥₑ ₐ ₗₒₒₖ ₐᵣₒᵤₙd 
 
-[![](https://img.shields.io/badge/-@krisofakind-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/krisofakind)
-[![](https://img.shields.io/badge/-@krisofakind-%23181717?style=flat-square&logo=github)](https://github.com/krisofakind)
-[![](https://img.shields.io/badge/-@krisofakind-%23000000?style=flat-square&logo=codepen)](https://codepen.io/krisofakind)
-[![](https://img.shields.io/badge/-@krisofakind-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/krisofakind)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me)
+## GitHub Stats
 
-𝑰 ❤️ 𝑳𝒐𝒗𝒆 𝒄𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚!
+[GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
 
-:computer: 𝑺𝒆𝒍𝒇-𝒕𝒂𝒖𝒈𝒉𝒕 𝑪𝒚𝑺𝑨 𝑨𝒏𝒂𝒍𝒚𝒔𝒕
+<!-- TODO change to the GitHub Skyline 2021 graph -->
+<img src="https://github-readme-stats.vercel.app/api?username=krisofakind&amp;show_icons=true&amp;theme=prussian" alt="Kris&#39;s GitHub stats" width="700"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=krisofakind&show_icons=true&include_all_commits=true&count_private=true&theme=prussian&layout=compact" alt="GitHub Stats for MishManners" width="700"><br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=krisofakind&theme=prussian" width="700">
 
-🖖 𝗣𝘆𝘁𝗵𝗼𝗻 𝗮𝗳𝗶𝗰𝗶𝗼𝗻𝗮𝗱𝗼 | 🔐 𝗪𝗲𝗯𝟯 𝗟𝗲𝗮𝗿𝗻𝗲𝗿 | 🍵 𝗚𝗿𝗲𝗲𝗻-𝘁𝗲𝗮 𝗣𝗵𝗲𝗻𝗲 | 💻 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿
 
-:writing_hand: 𝙄 𝙡𝙤𝙫𝙚 𝙨𝙝𝙖𝙧𝙞𝙣𝙜 𝙘𝙧𝙚𝙖𝙩𝙞𝙫𝙚 𝙩𝙤𝙤𝙡𝙨, 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙘𝙝𝙚𝙘𝙠 [blog](medium.com/krisctf) 𝙛𝙤𝙧 𝙢𝙤𝙧𝙚 𝙙𝙚𝙩𝙖𝙞𝙡𝙨.  
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+### Watch my contribution graph get eaten by the snake 🐍
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-
-![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
-![Windicss](https://img.shields.io/badge/-WindiCss-%23000000?style=flat-square&logo=tailwind-css&&logoColor=48B0F1)
-
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
-![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
-![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-![krisctf's github stats](https://github-readme-stats.vercel.app/api?username=krisctf&show_icons=true&theme=dracula)
+<!-- platane/snk works, it just puts it on a new branch -->
+![github-user-contribution](https://user-images.githubusercontent.com/75515498/203710096-fea6af10-71b6-45ba-8f48-a8ab39113e68.svg)
