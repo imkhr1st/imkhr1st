@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&size=50&pause=1000&vCenter=true&width=1400&lines=Hi%2C+im+kris+aka.+imkhr1st+a+soc+analyst+from+the+U.S.)](https://git.io/typing-svg)
 
-<img src="https://i.pinimg.com/originals/f8/40/64/f840648bbc35b434bad75522c40aa4ef.gif" alt="drawing" width="1100"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHM2c3lvdWIzbHA1dDAxc2c4bDR1eGV4NWhrZHg2eXAwcndsZWR5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NwzrMu9rsg4NunUXKZ/giphy.webp" alt="drawing" width="1100"/>
 
 <p align="left"> <a href="https://twitter.com/imkhr1st" target="blank"><img src="https://img.shields.io/twitter/follow/imkhr1st?logo=twitter&style=for-the-badge" alt="imkhr1st" /></a> </p>
 
