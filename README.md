@@ -1,14 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&size=50&pause=1000&vCenter=true&width=1400&lines=Hi%2C+im+kris+aka.+krisofakind+a+soc+analyst+from+the+U.S.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&size=50&pause=1000&vCenter=true&width=1400&lines=Hi%2C+im+kris+aka.+imkhr1st+a+soc+analyst+from+the+U.S.)](https://git.io/typing-svg)
 
 <img src="https://i.pinimg.com/originals/91/d7/81/91d7811360cc071d18203adff8850d4c.gif" alt="drawing" width="1100"/>
 
-<p align="left"> <a href="https://twitter.com/krisofakind" target="blank"><img src="https://img.shields.io/twitter/follow/krisofakind?logo=twitter&style=for-the-badge" alt="krisofakind" /></a> </p>
+<p align="left"> <a href="https://twitter.com/imkhr1st" target="blank"><img src="https://img.shields.io/twitter/follow/imkhr1st?logo=twitter&style=for-the-badge" alt="imkhr1st" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/krisofakind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="krisofakind" height="30" width="40" /></a>
-<a href="https://twitter.com/krisofakind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krisofakind" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krisofakind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krisofakind" height="30" width="40" /></a>
+<a href="https://dev.to/imkhr1st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="imkhr1st" height="30" width="40" /></a>
+<a href="https://twitter.com/imkhr1st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imkhr1st" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imkhr1st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imkhr1st" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17237090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17237090" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@krisctf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@krisctf" height="30" width="40" /></a>
 </p>
@@ -18,7 +18,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/laelyotam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="laelyotam" /></a><a href="https://ko-fi.com/krisofakind"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="krisofakind" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/laelyotam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="laelyotam" /></a><a href="https://ko-fi.com/imkhr1st"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="imkhr1st" /></a></p><br><br>
 
 
 <img align="right" width="150" height="150" src="https://i.ibb.co/HBKPZqm/octocat.png">
@@ -40,9 +40,9 @@ As an aspiring multi-engineer or applied scientist, it is imperative to possess 
 [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
 
 <!-- TODO change to the GitHub Skyline 2021 graph -->
-<img src="https://github-readme-stats.vercel.app/api?username=krisofakind&amp;show_icons=true&amp;theme=prussian" alt="Kris&#39;s GitHub stats" width="700"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=krisofakind&show_icons=true&include_all_commits=true&count_private=true&theme=prussian&layout=compact" alt="GitHub Stats for MishManners" width="700"><br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=krisofakind&theme=prussian" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=imkhr1st&amp;show_icons=true&amp;theme=prussian" alt="Kris&#39;s GitHub stats" width="700"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=imkhr1st&show_icons=true&include_all_commits=true&count_private=true&theme=prussian&layout=compact" alt="GitHub Stats for MishManners" width="700"><br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=imkhr1st&theme=prussian" width="700">
 
 
 
