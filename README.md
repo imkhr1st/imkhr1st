@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&size=50&pause=1000&vCenter=true&width=1400&lines=Hi%2C+im+kris+aka.+imkhr1st+a+soc+analyst+from+the+U.S.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&size=50&pause=1000&vCenter=true&width=1400&lines=Hi%2C+im+kris+aka.+khr1st+a+programmer+from+the+U.S.)](https://git.io/typing-svg)
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHM2c3lvdWIzbHA1dDAxc2c4bDR1eGV4NWhrZHg2eXAwcndsZWR5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NwzrMu9rsg4NunUXKZ/giphy.webp" alt="drawing" width="1100"/>
 
